@@ -1,0 +1,17 @@
+INVOICE
+
+Vendor: Summit Manufacturing Co.
+Invoice Number: INV-2009
+Date: 2026-02-16
+Due Date: 2026-03-18
+
+Items:
+  WidgetA    qty: 2     unit price: $250.00
+  WidgetB    qty: 1     unit price: $500.00
+
+Subtotal: $1,000.00
+Tax (0%): $0.00
+Total Amount: $1,000.00
+
+Payment Terms: Net 30
+Notes: Please approve and remit payment at your earliest convenience. Thank you for your business!

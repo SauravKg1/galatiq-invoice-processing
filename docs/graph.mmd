@@ -1,0 +1,38 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	ingest(ingest)
+	validate(validate)
+	approve(approve)
+	pay(pay)
+	reject(reject)
+	escalate(escalate)
+	fail(fail)
+	communicate(communicate)
+	finalize(finalize)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> ingest;
+	approve -.-> escalate;
+	approve -.-> fail;
+	approve -.-> pay;
+	approve -.-> reject;
+	communicate --> finalize;
+	escalate -.-> communicate;
+	escalate -.-> fail;
+	fail --> communicate;
+	ingest -.-> fail;
+	ingest -.-> validate;
+	pay -.-> communicate;
+	pay -.-> fail;
+	reject -.-> communicate;
+	reject -.-> fail;
+	validate -.-> approve;
+	validate -.-> fail;
+	finalize --> __end__;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc

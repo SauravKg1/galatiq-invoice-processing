@@ -1,0 +1,16 @@
+INVOICE
+
+Vendor: Precision Parts Ltd.
+Invoice Number: INV-2014
+PO Number: PO-4500012
+Date: 2026-03-02
+Due Date: 2026-04-01
+
+Items:
+  WidgetA    qty: 2     unit price: $250.00
+
+Subtotal: $500.00
+Tax (0%): $0.00
+Total Amount: $500.00
+
+Payment Terms: Net 30

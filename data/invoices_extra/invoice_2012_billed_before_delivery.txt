@@ -1,0 +1,16 @@
+INVOICE
+
+Vendor: Widgets Inc.
+Invoice Number: INV-2012
+PO Number: PO-4500012
+Date: 2026-02-24
+Due Date: 2026-03-26
+
+Items:
+  WidgetA    qty: 10    unit price: $250.00
+
+Subtotal: $2,500.00
+Tax (0%): $0.00
+Total Amount: $2,500.00
+
+Payment Terms: Net 30

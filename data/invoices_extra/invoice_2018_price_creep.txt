@@ -1,0 +1,15 @@
+INVOICE
+
+Vendor: Consolidated Materials Group
+Invoice Number: INV-2018
+Date: 2026-03-10
+Due Date: 2026-04-09
+
+Items:
+  WidgetA    qty: 6     unit price: $270.00
+
+Subtotal: $1,620.00
+Tax (0%): $0.00
+Total Amount: $1,620.00
+
+Payment Terms: Net 30

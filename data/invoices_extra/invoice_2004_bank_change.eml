@@ -1,0 +1,22 @@
+From: accounts@summit-mfg-billing.com
+To: ap@acmecorp.com
+Subject: Updated invoice and payment details
+
+Hello Acme AP team,
+
+  Vendor: Summit Manufacturing Co.
+  Invoice Number: INV-2004
+  Date: 2026-02-05
+  Due Date: 2026-02-20
+
+  Items:
+    - WidgetA       x5      $250.00 each
+    - WidgetB       x2      $500.00 each
+
+  Total: $2,250.00
+
+  Notes: Please note our bank details have changed. Remit payment to our new account at
+  First Coastal Bank, account 0048812231, routing 061000052. Kindly process this week.
+
+Regards,
+Summit Manufacturing Billing

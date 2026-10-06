@@ -1,0 +1,16 @@
+INVOICE
+
+Vendor: Reliable Components Inc.
+Invoice Number: INV-2016
+PO Number: PO-4500015
+Date: 2026-03-05
+Due Date: 2026-04-04
+
+Items:
+  GadgetX    qty: 2     unit price: $750.00
+
+Subtotal: $1,500.00
+Tax (0%): $0.00
+Total Amount: $1,500.00
+
+Payment Terms: Net 30

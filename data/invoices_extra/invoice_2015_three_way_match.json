@@ -1,0 +1,17 @@
+{
+  "invoice_number": "INV-2015",
+  "po_number": "PO-4500015",
+  "vendor": {"name": "Reliable Components Inc.", "address": null},
+  "date": "2026-03-04",
+  "due_date": "2026-04-03",
+  "line_items": [
+    {"item": "GadgetX", "quantity": 3, "unit_price": 750.00, "amount": 2250.00},
+    {"item": "WidgetA", "quantity": 4, "unit_price": 250.00, "amount": 1000.00}
+  ],
+  "subtotal": 3250.00,
+  "tax_rate": 0.0,
+  "tax_amount": 0.00,
+  "total": 3250.00,
+  "currency": "USD",
+  "payment_terms": "Net 30"
+}
