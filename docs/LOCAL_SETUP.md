@@ -17,9 +17,9 @@ Everything runs offline with no account and no key. Grok is optional: it adds LL
 
 You do not need Graphviz, Docker or a database server. SQLite ships with Python.
 
-## 2. Unzip and create a virtual environment
+## 2. Ceate a virtual environment
 
-Unzip `acme-ap-autopilot.zip`, then open a terminal in that folder.
+Open a terminal in the folder.
 
 macOS / Linux:
 
